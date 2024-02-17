@@ -51,7 +51,7 @@
 
 <h3>Lugares</h3>
 <img src="./img-readme/lugares.png" alt="imagen de la sección lugares" style="width:100%">
-<p>En este caso, también utilizo un grid de tres columnas pero con unas cards con un diseño distinto, también sacadas de "xxxxxxxxxxxxxxxx". Al igual que el las dos secciones anteriores, son totalmentes responsives y tienen un efecto que queda muy estético.</p>
+<p>En este caso, también utilizo un grid de tres columnas pero con unas cards con un diseño distinto, sacadas de "FreeFrontend". Al igual que el las dos secciones anteriores, son totalmentes responsives y tienen un efecto que queda muy estético.</p>
 
 <h3>Galería</h3>
 <img src="./img-readme/galeria.png" alt="imagen de la sección galeria" style="width:100%">
@@ -59,18 +59,19 @@
 
 <h3>Contacto</h3>
 <img src="./img-readme/contacto.png" alt="imagen de la sección contacto" style="width:100%">
-<p>Para el contacto, he usado un code snippet de "MDBootstrap". Este fragmento de código cuenta con una sección para un formulario de entrada de datos en el que se pide el nombre, email, número de teléfono y el mensaje de texto que se quiere enviar. La otra sección cuenta con un pequeño apartado de información de contacto, donde podemos ver el teléfono, mail y dirección de la empresa. Es un apartado de contacto muy sencillo pero a la vez visual y estético.</p>
+<p>Para el contacto, he usado un code snippet de "MDBootstrap". Este fragmento de código cuenta con una sección para un formulario de entrada de datos en el que se pide el nombre, email, número de teléfono y el mensaje de texto que se quiere enviar. La otra sección cuenta con un pequeño apartado de información de contacto, donde podemos ver el teléfono, email y dirección de la empresa. Es un apartado de contacto muy sencillo pero a la vez visual y estético.</p>
 
 <h3>Footer</h3>
 <img src="./img-readme/footer.png" alt="imagen de la sección footer" style="width:100%">
-<p>En esta última sección he usado un code snippet de "MDBootstrap". Este fragmento de código cuenta con </p>
+<p>En esta última sección he usado un code snippet de "MDBootstrap". Este fragmento de código cuenta con una sección que repite los enlaces de la barra de navegación, para que sea mucho más fácil acceder a cualquier punto de la página, otra sección con las redes sociales y por último, una para poder ver los créditos y los derechos de la web.</p>
+<img src="./img-readme/modal.png" alt="imagen de la sección footer" style="width:100%">
 
 <h2 id="snippets">Code snippets</h2>
 <p>He utilizado los siguientes:</p>
 <ul>
   <li>Barra de navegación: Tomada de GetBootstrap (https://getbootstrap.com/docs/5.0/components/navbar/)</li>
   <li>Slider de galería: Tomada de GetBootstrap (https://getbootstrap.com/docs/5.0/components/carousel/)</li> 
-  <li>Cards:</li>
+  <li>Cards:Tomado de FreeFrontend (https://freefrontend.com/bootstrap-cards/)</li>
   <li>Form: Tomado de MDBootstrap (https://mdbootstrap.com/docs/b4/jquery/forms/contact/)</li>
   <li>Footer: Tomado de MDBootstrap (https://mdbootstrap.com/snippets/standard/mdbootstrap/2885047?view=side)</li>
   <li>Modal: Tomado de GetBootstrap (https://getbootstrap.com/docs/4.0/components/modal/)</li>
