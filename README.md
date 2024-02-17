@@ -58,7 +58,7 @@
 <p>Para la galería, he obtenido un code snippet de la famosa página "GetBootstrap". Un slider simple pero dinámico y estético. Consta de 8 fotos diferentes de varios lugares de la isla y con su pie de página para que la persona pueda saber que lugar esta visualizando.</p>
 
 <h3>Contacto</h3>
-<img src="./img-readme/galeria.png" alt="imagen de la sección contacto" style="width:100%">
+<img src="./img-readme/contacto.png" alt="imagen de la sección contacto" style="width:100%">
 <p>Para el contacto, he usado un code snippet de "MDBootstrap". Este fragmento de código cuenta con una sección para un formulario de entrada de datos en el que se pide el nombre, email, número de teléfono y el mensaje de texto que se quiere enviar. La otra sección cuenta con un pequeño apartado de información de contacto, donde podemos ver el teléfono, mail y dirección de la empresa. Es un apartado de contacto muy sencillo pero a la vez visual y estético.</p>
 
 <h3>Footer</h3>
