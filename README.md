@@ -65,10 +65,6 @@
 <img src="./img-readme/footer.png" alt="imagen de la sección footer" style="width:100%">
 <p>En esta última sección he usado un code snippet de "MDBootstrap". Este fragmento de código cuenta con </p>
 
-
-
-
-
 <h2 id="snippets">Code snippets</h2>
 <p>He utilizado los siguientes:</p>
 <ul>
@@ -78,4 +74,24 @@
   <li>Form: Tomado de MDBootstrap (https://mdbootstrap.com/docs/b4/jquery/forms/contact/)</li>
   <li>Footer: Tomado de MDBootstrap (https://mdbootstrap.com/snippets/standard/mdbootstrap/2885047?view=side)</li>
   <li>Modal: Tomado de GetBootstrap (https://getbootstrap.com/docs/4.0/components/modal/)</li>
-</ul>]
+</ul>
+
+<h2 id="estilo">Estilo de la página</h2>
+<br>
+<h3>Paleta de colores</h3>
+<ul><p>· Tono blanco (#White)</p></ul>
+<ul><p>· Tonos verdes (rgba(5, 164, 122, 0.932), rgba(20, 210, 159, 0.932), #81d7c0e8, etc.)</p></ul>
+<br>
+<h3>Tipografías</h3>
+<ul><p>· DancingScript-VariableFont_wght</p></ul>
+<ul><p>· LilitaOne-Regular</p></ul>
+<ul><p>· Oswald-VariableFont_wght</p></ul>
+<br>
+<h3>Imágenes</h3>
+<ul><p>· Flickr</p></ul>
+<ul><p>· Civatatis</p></ul>
+<ul><p>· ElMundo</p></ul>
+<ul><p>· AbcMallorca</p></ul>
+<ul><p>· ElPaís</p></ul>
+<ul><p>· Etc...</p></ul>
+<br>
