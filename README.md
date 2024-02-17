@@ -39,7 +39,7 @@
 
 <h3>Introducción</h3>
 <img src="./img-readme/intro.png" alt="imagen de la sección introducción" style="width:100%">
-<p>Para esta sección he usado un grid de dos columnas, una para el texto y otra para la imagén. Un Diseño que considero simple pero estético. Por otro lado, he hecho uso de un botón de "Universe.io" que nos permitirá ir a otra subpágina para poder leer toda la información, en caso de que nos interese. De esta forma, puedo asegurar que la página principal no quede sobrecargada de texto y vaya acorde con la imagen.</p>
+<p>Para esta sección he usado un grid de dos columnas, una para el texto y otra para la imagén. Un diseño que considero simple pero estético. Por otro lado, he hecho uso de un botón de "Universe.io" que nos permitirá ir a otra subpágina para poder leer toda la información, en caso de que nos interese. De esta forma, puedo asegurar que la página principal no quede sobrecargada de texto y vaya acorde con la imagen.</p>
 
 <h3>Pueblos</h3>
 <img src="./img-readme/pueblos.png" alt="imagen de la sección pueblos" style="width:100%">
