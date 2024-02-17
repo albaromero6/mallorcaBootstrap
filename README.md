@@ -63,7 +63,7 @@
 
 <h3>Footer</h3>
 <img src="./img-readme/footer.png" alt="imagen de la sección footer" style="width:100%">
-<p>En esta última sección he usado un grid de tres columas con una organización distinta a las secciones anteiores. El footer consta de un apartado "siguénos", donde pueden localizarse todos los enlaces a las redes sociales, un apartado para los enlaces que se encuentran también en la barra de navegación, para que sea así más cómodo desplazarse por la web y un apartado con un email de contacto. Además, se incluye un enlace a créditos que abre un modal box, obtenido también de "W3Schools" y que contiene todas las atribuciones a las imagenes y elementos usados en mi página.</p>
+<p>En esta última sección he usado un code snippet de "MDBootstrap". Este fragmento de código cuenta con </p>
 
 
 
@@ -73,7 +73,8 @@
 <p>He utilizado los siguientes:</p>
 <ul>
   <li>Barra de navegación:</li>
-  <li>Slider de galería: Tomada de GetBootstrap ( https://getbootstrap.com/docs/5.0/components/carousel/ )</li>
-  <li>Form: Tomado de MDBootstrap ( [https://getbootstrap.com/docs/5.0/components/carousel/](https://mdbootstrap.com/docs/b4/jquery/forms/contact/) )</li>
+  <li>Slider de galería: Tomada de GetBootstrap (https://getbootstrap.com/docs/5.0/components/carousel/)</li> 
   <li>Cards:</li>
-</ul>
+  <li>Form: Tomado de MDBootstrap (https://mdbootstrap.com/docs/b4/jquery/forms/contact/)</li>
+  <li>Footer: Tomado de MDBootstrap (https://mdbootstrap.com/snippets/standard/mdbootstrap/2885047?view=side)</li>
+</ul>]
