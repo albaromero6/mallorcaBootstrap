@@ -1,0 +1,120 @@
+/*******************************FONTS******************************/
+
+@font-face {
+    font-family: titulonav;
+    src: url(../fonts/DancingScript-VariableFont_wght.ttf);
+}
+
+@font-face {
+    font-family: titulohero;
+    src: url(../fonts/LilitaOne-Regular.ttf);
+}
+
+@font-face {
+    font-family: titulossecciones;
+    src: url(../fonts/Oswald-VariableFont_wght.ttf);
+}
+
+/*******************************MAIN*******************************/
+
+h1 {color: rgba(42, 142, 115, 0.932);
+    font-family: titulossecciones;}
+
+/******************************NAVBAR******************************/
+
+.navbar-custom {
+    background-color: rgba(42, 142, 115, 0.932);
+    position: fixed;
+    width: 100%;
+    color: white;
+}
+
+#titulonav {font-family: titulonav;
+            font-size: x-large;}
+
+/****************************HEROSECCTION***************************/
+
+.bg-image {
+    background-size: cover;
+    background-repeat: no-repeat; 
+    background-position: center; 
+    height: 100vh; 
+}
+
+#titulo {text-shadow: 3px  0px 0px rgba(5, 164, 122, 0.817),
+    0px  3px 0px rgba(5, 164, 122, 0.817),
+    -3px  0px 0px rgba(5, 164, 122, 0.817),
+    0px -3px 0px rgba(5, 164, 122, 0.817);
+    margin-top: 150%;
+    color: white;
+    font-family: titulohero;}
+
+#botonhero {background-color: rgba(42, 142, 115, 0.932)}
+
+/**************************INTROSECCTION*****************************/
+
+#botonintro {background-color: rgba(42, 142, 115, 0.932);
+            color: white;}
+
+/**************************PUEBLOSSECCTION***************************/
+
+#botonpueblo {color: rgba(42, 142, 115, 0.932);}
+
+#titulocardpueblo {color: rgba(42, 142, 115, 0.932)}
+
+/***************************CALASSECCTION****************************/
+
+#botoncala {color: rgba(42, 142, 115, 0.932);}
+
+#titulocardcala {color: rgba(42, 142, 115, 0.932)}
+
+/*************************GALERÍASECCTION****************************/
+
+.carousel-item img {height: 600px;
+                    width: auto; 
+                    object-fit: cover; 
+}
+
+#galeria h5 {text-shadow: 1px  0px 0px rgba(5, 164, 122, 0.817),
+    0px  1px 0px rgba(5, 164, 122, 0.817),
+    -1px  0px 0px rgba(5, 164, 122, 0.817),
+    0px -1px 0px rgba(5, 164, 122, 0.817);
+    margin-top: 130%;
+    color: white;}
+
+/************************CONTACTOSECCTION*****************************/
+
+.custom-form-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+.custom-form {
+    max-width: 400px;
+}
+
+/**************************FOOTERSECCTION*****************************/
+
+footer {background-color: rgba(42, 142, 115, 0.932);}
+
+#rotulofooter {font-family: titulonav;}
+
+.modal-content {background-color: rgba(42, 142, 115, 0.932);}
+
+.modal-header .btn-close {color: white;}
+
+.modal-body h2 {font-family: titulossecciones;}
+
+.modal-body a {color: rgba(143, 218, 198, 0.932);}
+
+.modal-body a:hover {color: rgb(74, 225, 185);}
+
+
+/**************************RESPONSIVIDAD*******************************/
+
+@media screen and (max-width: 770px) {
+
+#infocontacto {margin-top: 10%;}
+
+}
