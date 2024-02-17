@@ -72,7 +72,7 @@
 <h2 id="snippets">Code snippets</h2>
 <p>He utilizado los siguientes:</p>
 <ul>
-  <li>Barra de navegación:</li>
+  <li>Barra de navegación: Tomada de GetBootstrap (https://getbootstrap.com/docs/5.0/components/navbar/)</li>
   <li>Slider de galería: Tomada de GetBootstrap (https://getbootstrap.com/docs/5.0/components/carousel/)</li> 
   <li>Cards:</li>
   <li>Form: Tomado de MDBootstrap (https://mdbootstrap.com/docs/b4/jquery/forms/contact/)</li>
