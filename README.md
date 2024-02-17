@@ -57,7 +57,13 @@
 <img src="./img-readme/galeria.png" alt="imagen de la sección galeria" style="width:100%">
 <p>Para la galería, he obtenido un code snippet de la famosa página "GetBootstrap". Un slider simple pero dinámico y estético. Consta de 8 fotos diferentes de varios lugares de la isla y con su pie de página para que la persona pueda saber que lugar esta visualizando.</p>
 
+<h3>Contacto</h3>
+<img src="./img-readme/galeria.png" alt="imagen de la sección contacto" style="width:100%">
+<p>Para el contacto, he usado un code snippet de "MDBootstrap". Este fragmento de código cuenta con una sección para un formulario de entrada de datos en el que se pide el nombre, email, número de teléfono y el mensaje de texto que se quiere enviar. La otra sección cuenta con un pequeño apartado de información de contacto, donde podemos ver el teléfono, mail y dirección de la empresa. Es un apartado de contacto muy sencillo pero a la vez visual y estético.</p>
 
+<h3>Footer</h3>
+<img src="./img-readme/footer.png" alt="imagen de la sección footer" style="width:100%">
+<p>En esta última sección he usado un grid de tres columas con una organización distinta a las secciones anteiores. El footer consta de un apartado "siguénos", donde pueden localizarse todos los enlaces a las redes sociales, un apartado para los enlaces que se encuentran también en la barra de navegación, para que sea así más cómodo desplazarse por la web y un apartado con un email de contacto. Además, se incluye un enlace a créditos que abre un modal box, obtenido también de "W3Schools" y que contiene todas las atribuciones a las imagenes y elementos usados en mi página.</p>
 
 
 
@@ -66,7 +72,8 @@
 <h2 id="snippets">Code snippets</h2>
 <p>He utilizado los siguientes:</p>
 <ul>
-  <li>Barra de navegación: Tomada de W3Schools "How to" ( https://www.w3schools.com/howto/default.asp ) </li>
+  <li>Barra de navegación:</li>
   <li>Slider de galería: Tomada de GetBootstrap ( https://getbootstrap.com/docs/5.0/components/carousel/ )</li>
-  <li>Cars: Tomada de Universio.io  ( https://uiverse.io/cards )</li>
+  <li>Form: Tomado de MDBootstrap ( [https://getbootstrap.com/docs/5.0/components/carousel/](https://mdbootstrap.com/docs/b4/jquery/forms/contact/) )</li>
+  <li>Cards:</li>
 </ul>
