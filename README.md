@@ -7,6 +7,7 @@
   <li><a href="#motivacion">Motivación</a></li>
   <li><a href="#estructura">Estructura</a></li>
   <li><a href="#estilo">Estilo</a></li>
+  <li><a href="#codesnippets">Code Snippets</a></li>
 </ul>
 
 <h2 id="introduccion">Introducción</h2>
