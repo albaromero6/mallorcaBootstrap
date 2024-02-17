@@ -32,9 +32,11 @@
   <li>Footer</li>
 </ul>
 
+
 <h3>Hero Section</h3>
 <img src="./img-readme/hero.png" alt="imagen de la sección hero" style="width:100%">
 <p>Para esta sección he usado una imagen de fondo tomada de Civitatis, es responsive en todo los tamaños de dispositivos diferentes. Por otro lado, he incluido en su interior un rótulo de texto con el título de mi página y un botón de Call to Action para que las personas puedan pulsar y directamente les lleve a una nueva pestaña donde podrán reservar su próximo viaje.</p>
+
 
 <h3>Introducción</h3>
 <img src="./img-readme/intro.png" alt="imagen de la sección introducción" style="width:100%">
