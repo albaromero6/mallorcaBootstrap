@@ -1,7 +1,6 @@
 <h1>Memoria de Mallorca con Bootstrap</h1>
 <br>
-<img src="./readme-img/portada.jpg" alt="imagen de hero section" style="width:100%">
-<h2>MALLORCA</h2>
+<img src="./img-readme/portada.jpg" alt="imagen portada" style="width:100%">
 <h2>Indice</h2>
 <ul>
   <li><a href="#introduccion">Introducción</a></li>
