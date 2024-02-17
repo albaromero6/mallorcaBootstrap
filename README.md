@@ -78,7 +78,7 @@
   <li>Modal: Tomado de GetBootstrap (https://getbootstrap.com/docs/4.0/components/modal/)</li>
 </ul>
 
-<h2 id="estilo">Estilo de la página</h2>
+<h2 id="estilo">Estilo</h2>
 <br>
 <h3>Paleta de colores</h3>
 <ul><p>· Tono blanco (#White)</p></ul>
