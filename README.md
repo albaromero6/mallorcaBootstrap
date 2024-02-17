@@ -12,7 +12,7 @@
 
 <h2 id="introduccion">Introducción</h2>
 <p>Trabajo realizado por Alba Romero</p>
-<p>Proyecto de web realizado con bootstrap y basado en el modelo de trabajo del primer trimestre"</p>
+<p>Proyecto de web realizado con bootstrap y basado en el modelo de trabajo del primer trimestre</p>
 <p>Trabajo realizado con fines educativos</p>
 <p>Febrero de 2024</p>
 <p>CopyRight ©</p>
