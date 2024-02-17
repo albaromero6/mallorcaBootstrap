@@ -20,7 +20,7 @@
 <p>El tema lo he elegido ya que me encanta viajar a diferentes partes del mundo, pero en concreto, cuando visité Mallorca, quede totalmente enamorada. La idea es que esta página sirva para que otras personas puedan visitar los que, desde mi punto de vista, son los lugares imprescindibles de la isla.</p>
 
 <h2 id="estructura">Estructura</h2>
-<p>La web está dividida en 7 secciones:</p>
+<p>La web está dividida en 8 secciones:</p>
 <ul>
   <li>Hero Section</li>  
   <li>Introducción</li>
@@ -43,3 +43,29 @@
 <h3>Pueblos</h3>
 <img src="./img-readme/pueblos.png" alt="imagen de la sección pueblos" style="width:100%">
 <p>Para esta sección, he usado un grid de tres columnas, incluyendo en todas ellas una card tomada del proyecto modelo de clase pero poniendola totalmente adoptada a mi gusto y el estilo de mi página. Tanto esta sección como las dos siguientes juegan con las responsividad que bootstrap proporcina, dependiendo del tamaño del dispositivo desde el que se esté viendo la web, podremos ver la estructura en una, dos o tres columnas.Cada card tiene un botón que directamente nos lleva a otra página con diversa información sobre cada uno de los pueblos.</p>
+
+<h3>Calas</h3>
+<img src="./img-readme/calas.png" alt="imagen de la sección calas" style="width:100%">
+<p>Esta seccción es totalmente igual que la anterior. En ella también disponemos de un botón por cada card que nos lleva directos a una web externa con información.</p>
+
+<h3>Lugares</h3>
+<img src="./img-readme/lugares.png" alt="imagen de la sección lugares" style="width:100%">
+<p>En este caso, también utilizo un grid de tres columnas pero con unas cards con un diseño distinto, también sacadas de "xxxxxxxxxxxxxxxx". Al igual que el las dos secciones anteriores, son totalmentes responsives y tienen un efecto que queda muy estético.</p>
+
+<h3>Galería</h3>
+<img src="./img-readme/galeria.png" alt="imagen de la sección galeria" style="width:100%">
+<p>Para la galería, he obtenido un code snippet de la famosa página "GetBootstrap". Un slider simple pero dinámico y estético. Consta de 8 fotos diferentes de varios lugares de la isla y con su pie de página para que la persona pueda saber que lugar esta visualizando.</p>
+
+
+
+
+
+
+
+<h2 id="snippets">Code snippets</h2>
+<p>He utilizado los siguientes:</p>
+<ul>
+  <li>Barra de navegación: Tomada de W3Schools "How to" ( https://www.w3schools.com/howto/default.asp ) </li>
+  <li>Slider de galería: Tomada de GetBootstrap ( https://getbootstrap.com/docs/5.0/components/carousel/ )</li>
+  <li>Cars: Tomada de Universio.io  ( https://uiverse.io/cards )</li>
+</ul>
