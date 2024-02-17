@@ -32,12 +32,14 @@
   <li>Footer</li>
 </ul>
 
-
 <h3>Hero Section</h3>
 <img src="./img-readme/hero.png" alt="imagen de la sección hero" style="width:100%">
 <p>Para esta sección he usado una imagen de fondo tomada de Civitatis, es responsive en todo los tamaños de dispositivos diferentes. Por otro lado, he incluido en su interior un rótulo de texto con el título de mi página y un botón de Call to Action para que las personas puedan pulsar y directamente les lleve a una nueva pestaña donde podrán reservar su próximo viaje.</p>
 
-
 <h3>Introducción</h3>
 <img src="./img-readme/intro.png" alt="imagen de la sección introducción" style="width:100%">
 <p>Para esta sección he usado un grid de dos columnas, una para el texto y otra para la imagén. Un Diseño que considero simple pero estético. Por otro lado, he hecho uso de un botón de "Universe.io" que nos permitirá ir a otra subpágina para poder leer toda la información, en caso de que nos interese. De esta forma, puedo asegurar que la página principal no quede sobrecargada de texto y vaya acorde con la imagen.</p>
+
+<h3>Pueblos</h3>
+<img src="./img-readme/pueblos.png" alt="imagen de la sección pueblos" style="width:100%">
+<p>Para esta sección, he usado un grid de tres columnas, incluyendo en todas ellas una card tomada del proyecto modelo de clase pero poniendola totalmente adoptada a mi gusto y el estilo de mi página. Tanto esta sección como las dos siguientes juegan con las responsividad que bootstrap proporcina, dependiendo del tamaño del dispositivo desde el que se esté viendo la web, podremos ver la estructura en una, dos o tres columnas.Cada card tiene un botón que directamente nos lleva a otra página con diversa información sobre cada uno de los pueblos.</p>
