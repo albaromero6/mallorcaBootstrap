@@ -77,4 +77,5 @@
   <li>Cards:</li>
   <li>Form: Tomado de MDBootstrap (https://mdbootstrap.com/docs/b4/jquery/forms/contact/)</li>
   <li>Footer: Tomado de MDBootstrap (https://mdbootstrap.com/snippets/standard/mdbootstrap/2885047?view=side)</li>
+  <li>Modal: Tomado de GetBootstrap (https://getbootstrap.com/docs/4.0/components/modal/)</li>
 </ul>]
