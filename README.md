@@ -37,5 +37,5 @@
 <p>Para esta sección he usado una imagen de fondo tomada de Civitatis, es responsive en todo los tamaños de dispositivos diferentes. Por otro lado, he incluido en su interior un rótulo de texto con el título de mi página y un botón de Call to Action para que las personas puedan pulsar y directamente les lleve a una nueva pestaña donde podrán reservar su próximo viaje.</p>
 
 <h3>Introducción</h3>
-<img src="./readme-img/intro.png" alt="imagen de la sección introducción" style="width:50%">
+<img src="./img-readme/intro.png" alt="imagen de la sección introducción" style="width:50%">
 <p>Para esta sección he usado un grid de dos columnas, una para el texto y otra para la imagén. Un Diseño que considero simple pero estético. Por otro lado, he hecho uso de un botón de "Universe.io" que nos permitirá ir a otra subpágina para poder leer toda la información, en caso de que nos interese. De esta forma, puedo asegurar que la página principal no quede sobrecargada de texto y vaya acorde con la imagen.</p>
