@@ -43,7 +43,7 @@
 
 <h3>Pueblos</h3>
 <img src="./img-readme/pueblos.png" alt="imagen de la sección pueblos" style="width:100%">
-<p>Para esta sección, he usado un grid de tres columnas, incluyendo en todas ellas una card tomada del proyecto modelo de clase pero poniendola totalmente adoptada a mi gusto y el estilo de mi página. Tanto esta sección como las dos siguientes juegan con las responsividad que bootstrap proporcina, dependiendo del tamaño del dispositivo desde el que se esté viendo la web, podremos ver la estructura en una, dos o tres columnas.Cada card tiene un botón que directamente nos lleva a otra página con diversa información sobre cada uno de los pueblos.</p>
+<p>Para esta sección, he usado un grid de tres columnas, incluyendo en todas ellas una card tomada del proyecto modelo de clase pero poniendola totalmente adoptada a mi gusto y el estilo de mi página. Tanto esta sección como las dos siguientes juegan con las responsividad que bootstrap proporciona, dependiendo del tamaño del dispositivo desde el que se esté viendo la web, podremos ver la estructura en una, dos o tres columnas.Cada card tiene un botón que directamente nos lleva a otra página con diversa información sobre cada uno de los pueblos.</p>
 
 <h3>Calas</h3>
 <img src="./img-readme/calas.png" alt="imagen de la sección calas" style="width:100%">
