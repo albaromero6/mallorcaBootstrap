@@ -101,6 +101,10 @@ h1 {color: rgba(42, 142, 115, 0.932);
     max-width: 400px;
 }
 
+.btn-green {background-color: rgba(42, 142, 115, 0.932);}
+
+.btn-green:hover {background-color: rgba(143, 218, 198, 0.932) !important;}
+
 /**************************FOOTERSECCTION*****************************/
 
 footer {background-color: rgba(42, 142, 115, 0.932);}

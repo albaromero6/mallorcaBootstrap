@@ -326,7 +326,7 @@
 
         <section id="contacto" class="mb-4">
             <h1 class="display-2 text-center fw-bold mb-5 mt-5">Contacto</h1>
-            <p class="text-center w-responsive mx-auto mb-5">¿Tienes alguna pregunta? Escribenos un mensaje sin compromiso ¡Nuestro equipo estará encantado de ayudarte!</p>
+            <p class="text-center w-responsive mx-auto mb-5">¿Tienes alguna pregunta? Escríbenos un mensaje sin compromiso, ¡nuestro equipo estará encantado de ayudarte!</p>
         
             <section class="mb-4">
                 <div class="container mb-5" id="formulario-contacto">
@@ -336,28 +336,68 @@
                                 <div class="row">
                                     <div class="col-md-12">
                                         <div class="form-group mb-4">
-                                            <label for="name" class="form-label">Nombre</label>
-                                            <input type="text" id="name" name="name" class="form-control">
+                                            <label for="name" class="form-label">Nombre <span class="text-danger">*</span></label>
+                                            <input type="text" id="name" name="name" class="form-control" data-required>
                                         </div>
                                     </div>
                                     <div class="col-md-12">
                                         <div class="form-group mb-4">
-                                            <label for="email" class="form-label">Email</label>
-                                            <input type="text" id="email" name="email" class="form-control">
+                                            <label for="email" class="form-label">Email <span class="text-danger">*</span></label>
+                                            <input type="text" id="email" name="email" class="form-control" data-required>
                                         </div>
                                     </div>
                                     <div class="col-md-12">
                                         <div class="form-group mb-4">
-                                            <label for="telefono" class="form-label">Teléfono</label>
-                                            <input type="text" id="telefono" name="telefono" class="form-control">
+                                            <label for="telefono" class="form-label">Teléfono <span class="text-danger">*</span></label>
+                                            <input type="text" id="telefono" name="telefono" class="form-control" data-required>
                                         </div>
                                     </div>
                                     <div class="col-md-12">
                                         <div class="form-group mb-4">
-                                            <label for="message" class="form-label">Mensaje</label>
-                                            <textarea type="text" id="message" name="message" rows="2" class="form-control"></textarea>
+                                            <label for="message" class="form-label">Mensaje <span class="text-danger">*</span></label>
+                                            <textarea type="text" id="message" name="message" rows="2" class="form-control" data-required></textarea>
                                         </div>
                                     </div>
+                                    <div class="col-md-12">
+                                        <div class="form-group mb-4">
+                                            <label class="form-label">¿Quieres recibir una notificación de respuesta? <span class="text-danger">*</span></label>
+                                            <div class="form-check">
+                                                <input class="form-check-input" type="radio" name="opcion" id="opcion1" value="opcion1" data-required>
+                                                <label class="form-check-label" for="opcion1">
+                                                    Sí
+                                                </label>
+                                            </div>
+                                            <div class="form-check">
+                                                <input class="form-check-input" type="radio" name="opcion" id="opcion2" value="opcion2">
+                                                <label class="form-check-label" for="opcion2">
+                                                    No
+                                                </label>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-12">
+                                        <div class="form-group mb-4">
+                                            <label class="form-label">Motivo <span class="text-danger">*</span></label>
+                                            <select class="form-select" aria-label="Selecciona" name="seleccion" data-required="">
+                                                <option disabled selected>Selecciona una opción</option>
+                                                <option value="opcion1">Información sobre un viaje</option>
+                                                <option value="opcion2">Quiero formar parte del equipo</option>
+                                                <option value="opcion3">Otra consulta</option>
+                                            </select>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-12">
+                                        <div class="form-group mb-4">
+                                            <label class="form-label">¿Quieres recibir ofertas?</label>
+                                            <div class="form-check">
+                                                <input class="form-check-input" type="checkbox" id="ofertas" name="ofertas" data-required="">
+                                                <label class="form-check-label" for="ofertas">
+                                                    Sí, deseo recibir ofertas
+                                                </label>
+                                            </div>
+                                        </div>
+                                    </div>
+        
                                 </div>
                                 <div class="text-center">
                                     <button id="botonintro" type="submit" class="btn">Enviar</button>
@@ -386,7 +426,6 @@
             </section>
         </section>
         
-
             
         <footer class="text-center text-white">
             <section class="mt-5 mb-0">
@@ -501,5 +540,7 @@
 
 <script defer src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+<script src="./js/validform.js"></script>
+<script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
 
 </html>
